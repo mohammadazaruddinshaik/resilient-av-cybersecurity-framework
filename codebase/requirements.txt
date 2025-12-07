@@ -1,0 +1,6 @@
+rich
+numpy
+scikit-learn
+joblib
+pandas
+matplotlib
