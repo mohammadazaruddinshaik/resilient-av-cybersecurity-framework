@@ -1,0 +1,4 @@
+attack_probability,num_runs,total_attacks,total_detected,total_emergency_brakes,total_cut_engine,avg_attacks_per_run,avg_em_brakes_per_run,detection_rate,safe_stop_rate
+0.1,5,5,5,4,1,1.0,0.8,1.0,0.8
+0.3,5,10,10,5,5,2.0,1.0,1.0,1.0
+0.5,5,5,5,5,0,1.0,1.0,1.0,1.0
